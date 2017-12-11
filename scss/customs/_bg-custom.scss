@@ -271,11 +271,11 @@ body, html {
 }
 
 .gamecontainer {
-	background: #fff;
-	width: 60px;
-	height: 300px;
+	background-image: url(../../dist/images/mkd.jpg);
+	width: 25px;
+	height: 418px;
 	display: inline-block;
-    margin-top: 100px;
+    
 }
 
 .gamecontainer:hover {
@@ -284,9 +284,14 @@ body, html {
 
 
 .gameshelf {
-	margin: 0 auto;
-	width: 600px;
-    margin-top: 400px;
+	position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    overflow: hidden;
+	width: 800px;
+    
 
 }
 
@@ -309,10 +314,29 @@ body, html {
 
 
 
+/* The hero image */
+.gamelistshelf {
+    /* The image used */
+    background-image: url("../../dist/images/gameshelf2.png");
+
+    /* Set a specific height */
+    height: 100%;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+
+
+
+
 
 .carouselmove {
     position: absolute;
-    margin-top: 520px;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
@@ -320,7 +344,23 @@ body, html {
     
 }
 
+.carouselslidersr {
+    margin-left: 150px;
+}
 
+.carouselslidersl {
+    margin-right: 150px;
+}
+
+
+.headerforpage {
+    position: absolute;
+    margin-top: 200px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    overflow: hidden;
+}
 
 
 
@@ -362,6 +402,13 @@ body, html {
     background-size: cover;
 
 }
+
+
+    .consolesize {
+        width: 370px;
+        height: 300px;
+        margin: 0 auto;
+    }
 
     
 }
