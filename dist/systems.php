@@ -10,7 +10,7 @@
 				      <a href="switchgames.php"><img class="d-block img-fluid consolesize" src="images/switch.png" alt="First slide"></a>
 				    </div>
 				    <div class="carousel-item consolesize">
-				      <a href="#"><img class="d-block img-fluid consolesize" src="images/ps4.png" alt="Second slide"></a>
+				      <a href="psgames.php"><img class="d-block img-fluid consolesize" src="images/ps4.png" alt="Second slide"></a>
 				    </div>
 				    <div class="carousel-item consolesize">
 				      <a href="#"><img class="d-block img-fluid consolesize" src="images/genesis.png" alt="Third slide"></a>

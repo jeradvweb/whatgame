@@ -8637,25 +8637,213 @@ body, html {
 }
 
 .gamecontainer {
-  background-image: url(../../dist/images/mkd.jpg);
-  width: 25px;
-  height: 418px;
+  background-image: url(../../dist/images/games/zelda.png);
+  width: 200px;
+  height: 324px;
+  display: inline-block;
+}
+
+.gamecontainer2 {
+  background-image: url(../../dist/images/games/mario.png);
+  width: 200px;
+  height: 324px;
+  display: inline-block;
+}
+
+.gamecontainer3 {
+  background-image: url(../../dist/images/games/fe.png);
+  width: 200px;
+  height: 324px;
+  display: inline-block;
+}
+
+.gamecontainer4 {
+  background-image: url(../../dist/images/games/mk.png);
+  width: 200px;
+  height: 324px;
+  display: inline-block;
+}
+
+.gamecontainer5 {
+  background-image: url(../../dist/images/games/xeno.png);
+  width: 200px;
+  height: 324px;
+  display: inline-block;
+}
+
+.gamecontainer6 {
+  background-image: url(../../dist/images/games/arms.png);
+  width: 200px;
+  height: 324px;
+  display: inline-block;
+}
+
+.gamecontainer7 {
+  background-image: url(../../dist/images/games/bayo.png);
+  width: 200px;
+  height: 324px;
+  display: inline-block;
+}
+
+.gamecontainer8 {
+  background-image: url(../../dist/images/games/spl.png);
+  width: 200px;
+  height: 324px;
+  display: inline-block;
+}
+
+.gamecontainer9 {
+  background-image: url(../../dist/images/games/ff.jpg);
+  width: 240px;
+  height: 301px;
+  display: inline-block;
+}
+
+.gamecontainer10 {
+  background-image: url(../../dist/images/games/p5.jpg);
+  width: 240px;
+  height: 301px;
+  display: inline-block;
+}
+
+.gamecontainer11 {
+  background-image: url(../../dist/images/games/nier.jpg);
+  width: 240px;
+  height: 301px;
+  display: inline-block;
+}
+
+.gamecontainer12 {
+  background-image: url(../../dist/images/games/nioh.jpg);
+  width: 240px;
+  height: 301px;
+  display: inline-block;
+}
+
+.gamecontainer13 {
+  background-image: url(../../dist/images/games/last.jpg);
+  width: 240px;
+  height: 301px;
+  display: inline-block;
+}
+
+.gamecontainer14 {
+  background-image: url(../../dist/images/games/unch.jpg);
+  width: 240px;
+  height: 301px;
   display: inline-block;
 }
 
 .gamecontainer:hover {
-  background: #030303;
+  background-image: url(../../dist/images/games/zelda2.png);
+  width: 200px;
+  height: 324px;
+}
+
+.gamecontainer2:hover {
+  background-image: url(../../dist/images/games/mario2.png);
+  width: 200px;
+  height: 324px;
+}
+
+.gamecontainer3:hover {
+  background-image: url(../../dist/images/games/fe2.png);
+  width: 200px;
+  height: 324px;
+}
+
+.gamecontainer4:hover {
+  background-image: url(../../dist/images/games/mk2.png);
+  width: 200px;
+  height: 324px;
+}
+
+.gamecontainer5:hover {
+  background-image: url(../../dist/images/games/xeno2.png);
+  width: 200px;
+  height: 324px;
+}
+
+.gamecontainer6:hover {
+  background-image: url(../../dist/images/games/arms2.png);
+  width: 200px;
+  height: 324px;
+}
+
+.gamecontainer7:hover {
+  background-image: url(../../dist/images/games/bayo2.png);
+  width: 200px;
+  height: 324px;
+}
+
+.gamecontainer8:hover {
+  background-image: url(../../dist/images/games/spl2.png);
+  width: 200px;
+  height: 324px;
+}
+
+.gamecontainer9:hover {
+  background-image: url(../../dist/images/games/ff2.jpg);
+  width: 240px;
+  height: 301px;
+  display: inline-block;
+}
+
+.gamecontainer10:hover {
+  background-image: url(../../dist/images/games/p52.jpg);
+  width: 240px;
+  height: 301px;
+  display: inline-block;
+}
+
+.gamecontainer11:hover {
+  background-image: url(../../dist/images/games/nier2.jpg);
+  width: 240px;
+  height: 301px;
+  display: inline-block;
+}
+
+.gamecontainer12:hover {
+  background-image: url(../../dist/images/games/nioh2.jpg);
+  width: 240px;
+  height: 301px;
+  display: inline-block;
+}
+
+.gamecontainer13:hover {
+  background-image: url(../../dist/images/games/last2.jpg);
+  width: 240px;
+  height: 301px;
+  display: inline-block;
+}
+
+.gamecontainer14:hover {
+  background-image: url(../../dist/images/games/unch2.jpg);
+  width: 240px;
+  height: 301px;
+  display: inline-block;
 }
 
 .gameshelf {
   position: absolute;
-  top: 45%;
+  top: 65%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%);
   color: white;
   overflow: hidden;
-  width: 800px;
+  width: 820px;
+}
+
+.gameshelf2 {
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+  color: white;
+  overflow: hidden;
+  width: 1000px;
 }
 
 /* The hero image */
@@ -8712,6 +8900,16 @@ body, html {
   overflow: hidden;
 }
 
+.headerforpage2 {
+  position: absolute;
+  top: 180px;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+  color: white;
+  overflow: hidden;
+}
+
 @media only screen and (max-width: 800px) {
   .gameshelf {
     max-width: 450px;
@@ -8738,5 +8936,39 @@ body, html {
     width: 370px;
     height: 300px;
     margin: 0 auto;
+  }
+
+  .gameshelf {
+    position: absolute;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    color: white;
+    overflow: hidden;
+    width: 440px;
+  }
+}
+@media only screen and (min-width: 1920px) {
+  .gameshelf {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    color: white;
+    overflow: hidden;
+    width: 840px;
+  }
+}
+@media only screen and (min-width: 2560px) {
+  .gameshelf {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    color: white;
+    overflow: hidden;
+    width: 840px;
   }
 }
