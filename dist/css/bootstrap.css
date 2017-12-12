@@ -8734,6 +8734,55 @@ body, html {
   display: inline-block;
 }
 
+.gamecontainer15 {
+  background-image: url(../../dist/images/games/s.jpg);
+  width: 220px;
+  height: 314px;
+  display: inline-block;
+}
+
+.gamecontainer16 {
+  background-image: url(../../dist/images/games/s2.jpg);
+  width: 220px;
+  height: 314px;
+  display: inline-block;
+}
+
+.gamecontainer17 {
+  background-image: url(../../dist/images/games/s3.jpg);
+  width: 220px;
+  height: 314px;
+  display: inline-block;
+}
+
+.gamecontainer18 {
+  background-image: url(../../dist/images/games/sak.jpg);
+  width: 220px;
+  height: 314px;
+  display: inline-block;
+}
+
+.gamecontainer19 {
+  background-image: url(../../dist/images/games/ab.jpg);
+  width: 220px;
+  height: 314px;
+  display: inline-block;
+}
+
+.gamecontainer20 {
+  background-image: url(../../dist/images/games/etd.jpg);
+  width: 220px;
+  height: 314px;
+  display: inline-block;
+}
+
+.gamecontainer21 {
+  background-image: url(../../dist/images/games/gh.jpg);
+  width: 220px;
+  height: 314px;
+  display: inline-block;
+}
+
 .gamecontainer:hover {
   background-image: url(../../dist/images/games/zelda2.png);
   width: 200px;
@@ -8824,6 +8873,55 @@ body, html {
   display: inline-block;
 }
 
+.gamecontainer15:hover {
+  background-image: url(../../dist/images/games/sh.jpg);
+  width: 220px;
+  height: 314px;
+  display: inline-block;
+}
+
+.gamecontainer16:hover {
+  background-image: url(../../dist/images/games/s22.jpg);
+  width: 220px;
+  height: 314px;
+  display: inline-block;
+}
+
+.gamecontainer17:hover {
+  background-image: url(../../dist/images/games/s32.jpg);
+  width: 220px;
+  height: 314px;
+  display: inline-block;
+}
+
+.gamecontainer18:hover {
+  background-image: url(../../dist/images/games/sak2.jpg);
+  width: 220px;
+  height: 314px;
+  display: inline-block;
+}
+
+.gamecontainer19:hover {
+  background-image: url(../../dist/images/games/ab2.jpg);
+  width: 220px;
+  height: 314px;
+  display: inline-block;
+}
+
+.gamecontainer20:hover {
+  background-image: url(../../dist/images/games/etd2.jpg);
+  width: 220px;
+  height: 314px;
+  display: inline-block;
+}
+
+.gamecontainer21:hover {
+  background-image: url(../../dist/images/games/gh2.jpg);
+  width: 220px;
+  height: 314px;
+  display: inline-block;
+}
+
 .gameshelf {
   position: absolute;
   top: 65%;
@@ -8844,6 +8942,17 @@ body, html {
   color: white;
   overflow: hidden;
   width: 1000px;
+}
+
+.gameshelf3 {
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+  color: white;
+  overflow: hidden;
+  width: 930px;
 }
 
 /* The hero image */
@@ -8910,6 +9019,132 @@ body, html {
   overflow: hidden;
 }
 
+.headerforpage3 {
+  position: absolute;
+  top: 180px;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+  color: white;
+  overflow: hidden;
+}
+
+.navshapes {
+  max-height: 70%;
+  max-width: 70%;
+}
+
+.shapemove {
+  margin-left: 20px;
+}
+
+.shapemove2 {
+  margin-right: 20px;
+}
+
+.zeldatrailer {
+  background-image: url("../../dist/images/vids/zelda.png");
+  width: 422px;
+  height: 238px;
+  display: inline-block;
+}
+
+.zeldatrailer:hover {
+  background-image: url("../../dist/images/vids/zeldah.gif");
+  width: 422px;
+  height: 238px;
+  display: inline-block;
+}
+
+.zeldatrailer2 {
+  background-image: url("../../dist/images/vids/zelda2.png");
+  width: 422px;
+  height: 238px;
+  display: inline-block;
+}
+
+.zeldatrailer2:hover {
+  background-image: url("../../dist/images/vids/zelda2h.gif");
+  width: 422px;
+  height: 238px;
+  display: inline-block;
+}
+
+.mariotrailer {
+  background-image: url("../../dist/images/vids/mario.png");
+  width: 422px;
+  height: 238px;
+  display: inline-block;
+}
+
+.mariotrailer:hover {
+  background-image: url("../../dist/images/vids/marioh.gif");
+  width: 422px;
+  height: 238px;
+  display: inline-block;
+}
+
+.fetrailer {
+  background-image: url("../../dist/images/vids/fe.png");
+  width: 422px;
+  height: 238px;
+  display: inline-block;
+}
+
+.fetrailer:hover {
+  background-image: url("../../dist/images/vids/feh.gif");
+  width: 422px;
+  height: 238px;
+  display: inline-block;
+}
+
+.doomtrailer {
+  background-image: url("../../dist/images/vids/doom.png");
+  width: 422px;
+  height: 238px;
+  display: inline-block;
+}
+
+.doomtrailer:hover {
+  background-image: url("../../dist/images/vids/doomh.gif");
+  width: 422px;
+  height: 238px;
+  display: inline-block;
+}
+
+.videoshelf {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+  color: white;
+  overflow: hidden;
+  width: 900px;
+}
+
+.videoshelf2 {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+  color: white;
+  overflow: hidden;
+  width: 480px;
+}
+
+.videoshelf3 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+  color: white;
+  overflow: hidden;
+  width: 900px;
+}
+
 @media only screen and (max-width: 800px) {
   .gameshelf {
     max-width: 450px;
@@ -8947,6 +9182,50 @@ body, html {
     overflow: hidden;
     width: 440px;
   }
+
+  .gameshelf2 {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    color: white;
+    overflow: hidden;
+    width: 500px;
+  }
+
+  .gameshelf3 {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    color: white;
+    overflow: hidden;
+    width: 500px;
+  }
+
+  .videoshelf {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    color: white;
+    overflow: hidden;
+    width: 460px;
+  }
+
+  .videoshelf3 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    color: white;
+    overflow: hidden;
+    width: 480px;
+  }
 }
 @media only screen and (min-width: 1920px) {
   .gameshelf {
@@ -8959,6 +9238,39 @@ body, html {
     overflow: hidden;
     width: 840px;
   }
+
+  .gameshelf2 {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    color: white;
+    overflow: hidden;
+    width: 1000px;
+  }
+
+  .gameshelf3 {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    color: white;
+    overflow: hidden;
+    width: 930px;
+  }
+
+  .videoshelf {
+    position: absolute;
+    top: 73%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    color: white;
+    overflow: hidden;
+    width: 900px;
+  }
 }
 @media only screen and (min-width: 2560px) {
   .gameshelf {
@@ -8970,5 +9282,38 @@ body, html {
     color: white;
     overflow: hidden;
     width: 840px;
+  }
+
+  .gameshelf2 {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    color: white;
+    overflow: hidden;
+    width: 1000px;
+  }
+
+  .gameshelf3 {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    color: white;
+    overflow: hidden;
+    width: 930px;
+  }
+
+  .videoshelf {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    color: white;
+    overflow: hidden;
+    width: 900px;
   }
 }

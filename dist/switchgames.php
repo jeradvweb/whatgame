@@ -2,9 +2,9 @@
 
 <div class="gamelistshelf">
 								<div class="gameshelf">
-									<a href="#"><div class="gamecontainer"></div></a>
-									<a href="#"><div class="gamecontainer2"></div></a>
-									<a href="#"><div class="gamecontainer3"></div></a>
+									<a href="zeldabotw.php"><div class="gamecontainer"></div></a>
+									<a href="odyssey.php"><div class="gamecontainer2"></div></a>
+									<a href="fewarriors.php"><div class="gamecontainer3"></div></a>
 									<a href="#"><div class="gamecontainer4"></div></a>
 			
 									

@@ -32,6 +32,6 @@
   <ul class="gamenav bg-navbar" role="navigation">
      			<li class="active"><a href="index.php">Home</a></li>
       			<li><a href="systems.php">Games</a></li>
-      			<li><a href="#">Top Clips</a></li>
-      			<li><a href="#">Page 3</a></li>
+      			<li><a href="topclips.php">Top Clips</a></li>
+      			
  </ul>

@@ -17,8 +17,6 @@
 								<div class="gameshelf2">
 									<a href="#"><div class="gamecontainer13"></div></a>
 									<a href="#"><div class="gamecontainer14"></div></a>
-									<a href="#"><div class="gamecontainer15"></div></a>
-									<a href="#"><div class="gamecontainer16"></div></a>
 									
 									
 									
